@@ -4,6 +4,7 @@ Portifólio para documentar o processo de aprendizado da disciplina de Programa�
   Arquivo 
 <ul>
   <li> calcular media de duas notas e peso </li>
+  
   Dificuldades/Erros: não tive dificuldade em reaizar essa atividade, achei muito facil e fiquei feliz pelo meu codigo ter dado certo.  
   
 Link para acesso ao projeto:
